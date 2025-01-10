@@ -1,0 +1,22 @@
+{
+  "intro": "Hi",
+  "heroPhoto": {
+    "src": "../../images/profile-image.jpg",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "I'm Muhammad Usman",
+  "subtitle": {
+    "prefix": "Building Scalable Software Solutions That Drive ",
+    "highlight": "Growth",
+    "suffix": "."
+  },
+  "description": "With 8+ years of experience, I specialize in creating innovative, value-driven applications that solve real-world challenges, enhance customer satisfaction, and empower business success.",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": false
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "interests": [
+    {
+      "label": "Data Engineering",
+      "image": {
+        "src": "../../images/data-engineer.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Full-Stack Development",
+      "image": {
+        "src": "../../images/web.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Software Development",
+      "image": {
+        "src": "../../images/web-development.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Custom Software Solutions",
+      "image": {
+        "src": "../../images/custom.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Cloud Computing",
+      "image": {
+        "src": "../../images/cloud-storage.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "CI/CD & Testing",
+      "image": {
+        "src": "../../images/agile.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Problem-Solving & Debugging",
+      "image": {
+        "src": "../../images/idea.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Team Leadership",
+      "image": {
+        "src": "../../images/leadership.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Collaboration and Consulting",
+      "image": {
+        "src": "../../images/sales-team.png",
+        "alt": ""
+      }
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "+ Load More",
+    "initiallyShownInterests": 5
+  }
+}

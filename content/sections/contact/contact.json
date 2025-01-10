@@ -1,0 +1,13 @@
+{
+  "name": "Email me at",
+  "email": "hafizusman313@hotmai.com",
+  "description": "If you'd like to get in touch, feel free to reach out via the following methods",
+  "image": {
+    "src": "../../images/mobile-phone.png",
+    "alt": "Mobile Phone"
+  },
+  "socialProfiles": {
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": true
+  }
+}
