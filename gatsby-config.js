@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefex: "portfolio-minimal-gatsby",
   plugins: [
     {
       resolve: "gatsby-theme-portfolio-minimal",
