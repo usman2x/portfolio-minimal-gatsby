@@ -54,7 +54,6 @@ Working independently to provide solutions in Fullstack Development, Custom Soft
 #### Software Developer (Java)  
 **[Trangolabs ↗ ](https://www.trangolabs.com)** — *Jan 2017 – Feb 2019*  
 
-**Solution Consulting (CPQ), Lahore, Pakistan**  
 - Worked as a **full-stack developer** with a Sweden-based client, customizing their product.  
 - Customized **TcSite Configurator (CPQ software)**, built on top of the **Spring framework**, for German client **WILO**.  
 - Built an **In-Memory Pub-Sub model** for quotation processing.  
